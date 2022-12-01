@@ -1,0 +1,1862 @@
+﻿[
+  {
+    "title": "RESCUE",
+    "url": null,
+    "urlTitle": null,
+    "type": "detailsMapLinks",
+    "elements": {
+      "details": [
+        {
+          "title": "placeInWar",
+          "value": [
+            {
+              "id": "",
+              "value": "Krakow, Krakow, Krakow, Poland",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Zablocie, Krakow, Krakow, Poland",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Bruennlitz, Policka, Bohemia, Czechoslovakia",
+              "url": null
+            }
+          ]
+        },
+        {
+          "title": "rescuePlace",
+          "value": [
+            {
+              "id": "",
+              "value": "Zablocie, Krakow, Krakow, Poland",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Zablocie, Camp, Poland",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Bruennlitz, Camp, Czechoslovakia",
+              "url": null
+            }
+          ]
+        },
+        {
+          "title": "rescueMode",
+          "value": [
+            {
+              "id": "",
+              "value": "Supplying basic goods",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Providing forged documents",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Other",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "map": {
+        "pointers": [
+          {
+            "icon": "/assets/br.svg",
+            "latitude": "50.065514051349126",
+            "longitude": "19.946365356445312",
+            "title": "Krakow, Krakow, Krakow, Poland"
+          },
+          {
+            "icon": "/assets/br.svg",
+            "latitude": "50.06465",
+            "longitude": "19.94498",
+            "title": "Zablocie, Krakow, Krakow, Poland"
+          },
+          {
+            "icon": "/assets/br.svg",
+            "latitude": "49.6274234",
+            "longitude": "16.5219042",
+            "title": "Bruennlitz, Policka, Bohemia, Czechoslovakia"
+          }
+        ],
+        "places": [
+          {
+            "lif": "b",
+            "places": [ "Krakow", " Krakow", " Krakow", " Poland" ],
+            "point": "50.065514051349126,19.946365356445312"
+          },
+          {
+            "lif": "b",
+            "places": [ "Zablocie", " Krakow", " Krakow", " Poland" ],
+            "point": "50.06465,19.94498"
+          },
+          {
+            "lif": "b",
+            "places": [ "Bruennlitz", " Policka", " Bohemia", " Czechoslovakia" ],
+            "point": "49.6274234,16.5219042"
+          },
+          {
+            "lif": "r",
+            "places": [ "Krakow", " Krakow", " Krakow", " Poland" ],
+            "point": "50.065514051349126,19.946365356445312"
+          },
+          {
+            "lif": "r",
+            "places": [ "Zablocie", " Krakow", " Krakow", " Poland" ],
+            "point": "50.06465,19.94498"
+          },
+          {
+            "lif": "r",
+            "places": [ "Bruennlitz", " Policka", " Bohemia", " Czechoslovakia" ],
+            "point": "49.6274234,16.5219042"
+          }
+        ]
+      },
+      "links": {
+        "title": "Links to Library",
+        "value": [
+          {
+            "id": "0011775",
+            "value": "רשימת שינדלר",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=0011775"
+          },
+          {
+            "id": "0089224",
+            "value": "Oskar Schindler, ...immer neue Geschichten",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=0089224"
+          },
+          {
+            "id": "0120671",
+            "value": "Oskar Schindler w oczach uratowanych przez siebie krakowskich Zydow",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=0120671"
+          },
+          {
+            "id": "0122594",
+            "value": "Searching for Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=0122594"
+          },
+          {
+            "id": "10191470",
+            "value": "The Jewish fellow-citizens of Cracow rescued  by Oskar Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=10191470"
+          },
+          {
+            "id": "10459789",
+            "value": "Oskar  Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=10459789"
+          },
+          {
+            "id": "10595171",
+            "value": "The boy on the wooden box\r\n",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=10595171"
+          },
+          {
+            "id": "11172885",
+            "value": "Aleksander i Krystyna Allerhand",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11172885"
+          },
+          {
+            "id": "11172933",
+            "value": "Marcel Goldman",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11172933"
+          },
+          {
+            "id": "11172938",
+            "value": "Polsko-izraelskie losy Tulo Schenirera i jego rodziny",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11172938"
+          },
+          {
+            "id": "11450498",
+            "value": "Les ombres du passe",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11450498"
+          },
+          {
+            "id": "11675232",
+            "value": "Spiel mir das Lied vom Leben",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11675232"
+          },
+          {
+            "id": "11698653",
+            "value": "La liste de Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11698653"
+          },
+          {
+            "id": "11996345",
+            "value": "La quete de Schindlers",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11996345"
+          },
+          {
+            "id": "12588328",
+            "value": "L'etoile jaune et le manteau rouge",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=12588328"
+          },
+          {
+            "id": "12632352",
+            "value": "Holocaust saviors",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=12632352"
+          },
+          {
+            "id": "12770903",
+            "value": "הנער על ארגז העץ",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=12770903"
+          },
+          {
+            "id": "13202776",
+            "value": "נדרתי נדר לספר",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13202776"
+          },
+          {
+            "id": "13226405",
+            "value": "אוסקר שינדלר - סיפור משפחתי",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13226405"
+          },
+          {
+            "id": "13243050",
+            "value": "Schindlerjev vojak",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13243050"
+          },
+          {
+            "id": "13248356",
+            "value": "La lista de Schindler\r\n",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13248356"
+          },
+          {
+            "id": "13779770",
+            "value": "מאפלה לזריחה",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13779770"
+          },
+          {
+            "id": "14118170",
+            "value": "Mietek Pemper",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=14118170"
+          },
+          {
+            "id": "14310674",
+            "value": "El chico sobre la caja de madera",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=14310674"
+          },
+          {
+            "id": "14375382",
+            "value": "Un baiat pe lista lui Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=14375382"
+          },
+          {
+            "id": "14375385",
+            "value": "Lista lui Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=14375385"
+          },
+          {
+            "id": "15036424",
+            "value": "Schindler's list",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=15036424"
+          },
+          {
+            "id": "7190251",
+            "value": "Oskar Schindler in the eyes of Cracovian Jews rescued by him",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=7190251"
+          },
+          {
+            "id": "7575904",
+            "value": "Schindler's list",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=7575904"
+          },
+          {
+            "id": "9113795",
+            "value": "Oskar Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9113795"
+          },
+          {
+            "id": "9366911",
+            "value": "The shadows behind me",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9366911"
+          },
+          {
+            "id": "9566006",
+            "value": "Even to the edge of doom",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9566006"
+          },
+          {
+            "id": "9752762",
+            "value": "Oskar Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9752762"
+          },
+          {
+            "id": "9766790",
+            "value": "Dr. Jonas Dresner",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9766790"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "NAMES",
+    "url": "/en/names/search-results?page=1&connected_to_righteous_code.keyword=4017377",
+    "urlTitle": "See All (17) Rescued Persons",
+    "type": "table",
+    "elements": [
+      {
+        "id": "11161564",
+        "lastName": "Allerhand",
+        "firstName": "Aleksander Salo",
+        "birthYear": "1928",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/11161564"
+      },
+      {
+        "id": "13443888",
+        "lastName": "Birnhack",
+        "firstName": "Rena",
+        "birthYear": "1927",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/13443888"
+      },
+      {
+        "id": "14395235",
+        "lastName": "Buchsbaum",
+        "firstName": "Zofia",
+        "birthYear": "",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/14395235"
+      },
+      {
+        "id": "13443886",
+        "lastName": "Davidovitch",
+        "firstName": "Halina",
+        "birthYear": "1926",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/13443886"
+      },
+      {
+        "id": "14395228",
+        "lastName": "Elsner",
+        "firstName": "Franciszka Francis",
+        "birthYear": "1924",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/14395228"
+      },
+      {
+        "id": "14395233",
+        "lastName": "Elsner",
+        "firstName": "Louis Ludwig",
+        "birthYear": "1921",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/14395233"
+      },
+      {
+        "id": "13398738",
+        "lastName": "Horowitz",
+        "firstName": "Izydor",
+        "birthYear": "1898",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/13398738"
+      },
+      {
+        "id": "12796041",
+        "lastName": "Mandel",
+        "firstName": "Henryk",
+        "birthYear": "1904",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/12796041"
+      },
+      {
+        "id": "14395362",
+        "lastName": "Penner",
+        "firstName": "Maria Maryam",
+        "birthYear": "",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/14395362"
+      },
+      {
+        "id": "14395467",
+        "lastName": "Penner Szer",
+        "firstName": "John Jonas",
+        "birthYear": "",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/14395467"
+      },
+      {
+        "id": "14395465",
+        "lastName": "Penner Szer",
+        "firstName": "Martin Mieczysław",
+        "birthYear": "",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/14395465"
+      },
+      {
+        "id": "14786849",
+        "lastName": "Stern",
+        "firstName": "Yitzkhak",
+        "birthYear": "25/01/1901",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/14786849"
+      },
+      {
+        "id": "14395445",
+        "lastName": "Szweber Burstiner",
+        "firstName": "Helena",
+        "birthYear": "",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/14395445"
+      },
+      {
+        "id": "13443884",
+        "lastName": "Wohlfeiler",
+        "firstName": "Ignacy",
+        "birthYear": "1899",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/13443884"
+      },
+      {
+        "id": "13443885",
+        "lastName": "Wohlfeiler",
+        "firstName": "Rosa",
+        "birthYear": "1903",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/13443885"
+      },
+      {
+        "id": "13358938",
+        "lastName": "Wulkan",
+        "firstName": "Chaja",
+        "birthYear": "",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/13358938"
+      },
+      {
+        "id": "14348636",
+        "lastName": "Wulkan",
+        "firstName": "Mordechaj",
+        "birthYear": "1910",
+        "placeOfResidence": "",
+        "source": "survived",
+        "url": "/en/names/14348636"
+      }
+    ]
+  },
+  {
+    "title": "Photos",
+    "url": null,
+    "urlTitle": null,
+    "type": "image",
+    "elements": [
+      {
+        "id": null,
+        "title": "Emilie Schindler receives her Certificate of Honor.",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474472",
+            "title": "Emilie Schindler receives her Certificate of Honor.",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474472.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474472.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oskar & Emilie Schindler",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474473",
+            "title": "Oskar & Emilie Schindler",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474473.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474473.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oskar Schindler",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474477",
+            "title": "Oskar Schindler",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474477.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474477.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler's grave",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474478",
+            "title": "Oscar Schindler's grave",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474478.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474478.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Emilie Schindler receives her Certificate of Honor.",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474474",
+            "title": "Emilie Schindler receives her Certificate of Honor.",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474474.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474474.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Emilie Schindler receives her Certificate of Honor.",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474475",
+            "title": "Emilie Schindler receives her Certificate of Honor.",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474475.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474475.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler's grave",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474479",
+            "title": "Oscar Schindler's grave",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474479.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474479.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oskar Schindler visiting his childhood friend Walter Tragatsch in Israel, early 1970's",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474480",
+            "title": "Oskar Schindler visiting his childhood friend Walter Tragatsch in Israel, early 1970's",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474480.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474480.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Emilie Schindler",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474476",
+            "title": "Emilie Schindler",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474476.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474476.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oskar Schindler visiting his childhood friend Walter Tragatsch in Israel, early 1970's",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474481",
+            "title": "Oskar Schindler visiting his childhood friend Walter Tragatsch in Israel, early 1970's",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474481.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474481.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oskar Schindler visiting his childhood friend Walter Tragatsch in Israel, early 1970's",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474482",
+            "title": "Oskar Schindler visiting his childhood friend Walter Tragatsch in Israel, early 1970's",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474482.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474482.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oskar Schindler visiting his childhood friend Walter Tragatsch in Israel, early 1970's",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474483",
+            "title": "Oskar Schindler visiting his childhood friend Walter Tragatsch in Israel, early 1970's",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474483.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474483.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "The building of the Schindler factory, Krakow 2012.",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474484",
+            "title": "The building of the Schindler factory, Krakow 2012.",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474484.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474484.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler with the rescued ( Rosner, Horowitz)",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474485",
+            "title": "Oscar Schindler with the rescued ( Rosner, Horowitz)",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474485.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474485.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler with the rescued ( Rosner, Horowitz)",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474486",
+            "title": "Oscar Schindler with the rescued ( Rosner, Horowitz)",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474486.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474486.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler with the rescued",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474487",
+            "title": "Oscar Schindler with the rescued",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474487.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474487.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "The rescued Lewer Fager and his wife, 21.03.2001",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474488",
+            "title": "The rescued Lewer Fager and his wife, 21.03.2001",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474488.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474488.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "The rescued Lewer Fager and his wife, 21.03.2001",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474489",
+            "title": "The rescued Lewer Fager and his wife, 21.03.2001",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474489.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474489.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474490",
+            "title": "Oscar Schindler",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474490.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474490.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474491",
+            "title": "Oscar Schindler",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474491.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474491.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Tree planting ceremony in honor of Oscar Schindler. Yad Vashem, 08.05.1962",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474492",
+            "title": "Tree planting ceremony in honor of Oscar Schindler. Yad Vashem, 08.05.1962",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474492.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474492.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Tree planting ceremony in honor of Oscar Schindler. Yad Vashem, 08.05.1962",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474493",
+            "title": "Tree planting ceremony in honor of Oscar Schindler. Yad Vashem, 08.05.1962",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474493.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474493.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler with the rescued",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474494",
+            "title": "Oscar Schindler with the rescued",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474494.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474494.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler with the rescued",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474495",
+            "title": "Oscar Schindler with the rescued",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474495.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474495.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474496",
+            "title": "Oscar Schindler",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474496.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474496.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474497",
+            "title": "Oscar Schindler",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474497.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474497.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "The grave of Oscar Schindler",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474498",
+            "title": "The grave of Oscar Schindler",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474498.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474498.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oskar Schindler at the bar mitzva of Yoram Steinberg, grandson of Schindler's survivors, Gustava and Herman Feltsman, Israel 1963",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474499",
+            "title": "Oskar Schindler at the bar mitzva of Yoram Steinberg, grandson of Schindler's survivors, Gustava and Herman Feltsman, Israel 1963",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474499.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474499.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler at Yad Vashem, 08.05.1962",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474500",
+            "title": "Oscar Schindler at Yad Vashem, 08.05.1962",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474500.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474500.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474501",
+            "title": "Oscar Schindler",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474501.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474501.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler, 1971",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474502",
+            "title": "Oscar Schindler, 1971",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474502.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474502.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler's funeral, 28.10.1974",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474503",
+            "title": "Oscar Schindler's funeral, 28.10.1974",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474503.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474503.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler at a Synagogue in Los Angeles, January 1970",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474504",
+            "title": "Oscar Schindler at a Synagogue in Los Angeles, January 1970",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474504.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474504.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler at a Synagogue in Los Angeles, January 1970",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474505",
+            "title": "Oscar Schindler at a Synagogue in Los Angeles, January 1970",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474505.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474505.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler's funeral, 28.10.1974",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474506",
+            "title": "Oscar Schindler's funeral, 28.10.1974",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474506.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474506.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler's funeral, 28.10.1974",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474507",
+            "title": "Oscar Schindler's funeral, 28.10.1974",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474507.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474507.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler's funeral, 28.10.1974",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474508",
+            "title": "Oscar Schindler's funeral, 28.10.1974",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474508.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474508.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler grave",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474509",
+            "title": "Oscar Schindler grave",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474509.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474509.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler next to his tree. Yad Vashem",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474510",
+            "title": "Oscar Schindler next to his tree. Yad Vashem",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474510.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474510.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler with the rescued (Dan Carmel, Haifa)",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474511",
+            "title": "Oscar Schindler with the rescued (Dan Carmel, Haifa)",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474511.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474511.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oscar Schindler grave",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474512",
+            "title": "Oscar Schindler grave",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474512.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474512.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474513",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474513.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474513.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474514",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474514.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474514.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474515",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474515.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474515.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474516",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474516.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474516.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474517",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474517.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474517.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474518",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474518.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474518.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474519",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474519.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474519.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474520",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474520.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474520.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474521",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474521.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474521.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474522",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474522.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474522.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474523",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474523.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474523.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474524",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474524.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474524.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474525",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474525.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474525.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474526",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474526.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474526.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474527",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474527.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474527.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14474528",
+            "title": "A meeting of Jews who were rescued by Schindler. 27.11.1994",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14474528.JPG",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14474528.JPG",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      },
+      {
+        "id": null,
+        "title": "Oskar Schindler third from the left, with group of survivors. Next to him Anni Keller (later Khana Kotlizki). May 1945",
+        "text": null,
+        "description": null,
+        "credit": null,
+        "source": null,
+        "url": null,
+        "images": [
+          {
+            "id": "photos4/ran/\\14658972",
+            "title": "Oskar Schindler third from the left, with group of survivors. Next to him Anni Keller (later Khana Kotlizki). May 1945",
+            "url": "https://namesfs.yadvashem.org/photos4/ran/\\14658972.jpg",
+            "thmbnl": "https://namesfs.yadvashem.org/photos4/ran/\\14658972.jpg",
+            "mapPointers": [],
+            "backImage": null,
+            "type": "image",
+            "vertices": null,
+            "credit": null,
+            "relatedLink": null,
+            "marksPoints": null
+          }
+        ]
+      }
+    ]
+  }
+]
